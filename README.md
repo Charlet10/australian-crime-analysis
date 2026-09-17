@@ -1,56 +1,62 @@
-🔍 Australian Crime Statistics Analysis (2015–2023)
+\# 🔍 Australian Crime Statistics Analysis (2015–2023)
+
+
 
 A data analysis project using a simulated Australian crime statistics dataset, modelled on realistic patterns from ABS (Australian Bureau of Statistics) reporting. Covers 8 states and territories from 2015 to 2023.
 
 
 
-📊 What's Inside
+\## 📊 What's Inside
 
-Data creation and cleaning using NumPy and Pandas
+\- Data creation and cleaning using NumPy and Pandas
 
-Exploratory data analysis with summary statistics
+\- Exploratory data analysis with summary statistics
 
-Four professional visualisations:
+\- Four professional visualisations:
 
-Total crime incidents by state (bar chart)
+&#x20; - Total crime incidents by state (bar chart)
 
-Crime type distribution (pie chart)
+&#x20; - Crime type distribution (pie chart)
 
-Crime trend over time (line chart)
+&#x20; - Crime trend over time (line chart)
 
-State vs crime type heatmap
+&#x20; - State vs crime type heatmap
 
-Key findings and data-driven recommendations
+\- Key findings and data-driven recommendations
 
-🔑 Key Finding
+
+
+\## 🔑 Key Finding
 
 Australian crime declined by 14.7% from 2015 to 2023 across all states, with Theft being the most prevalent crime type at 29.7% of all incidents.
 
 
 
-🛠️ Technologies Used
+\## 🛠️ Technologies Used
 
-Python 3
+\- Python 3
 
-Pandas (data manipulation)
+\- Pandas (data manipulation)
 
-NumPy (data generation)
+\- NumPy (data generation)
 
-Matplotlib (visualisation)
+\- Matplotlib (visualisation)
 
-Seaborn (statistical charts)
+\- Seaborn (statistical charts)
 
-Jupyter Notebook
+\- Jupyter Notebook
 
-📚 Skills Demonstrated
 
-Data wrangling and analysis
 
-Statistical interpretation
+\## 📚 Skills Demonstrated
 
-Data visualisation
+\- Data wrangling and analysis
 
-Evidence-based reporting
+\- Statistical interpretation
 
-Python programming
+\- Data visualisation
+
+\- Evidence-based reporting
+
+\- Python programming
 
